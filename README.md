@@ -1,5 +1,5 @@
 # Proyecto final Aprendizaje Automático 2023 METPOL
-Repositorio para el curso del proyecto final de Machine Learning con Python, de la maestría en Métodos para el Análisis de Políticas Públicas. El proyecto consiste en clasificar imágenes que presentas mutación de cáncer de mama.
+Repositorio para el proyecto final del curso de Machine Learning con Python, de la maestría en Métodos para el Análisis de Políticas Públicas. El proyecto consiste en clasificar imágenes que presentas mutación de cáncer de mama.
 
 ## Motivación del proyecto
 
